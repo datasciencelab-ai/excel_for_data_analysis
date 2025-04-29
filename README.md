@@ -1,7 +1,4 @@
 # 📊 Mastering Excel for Data Analysis
-
-Chào mừng bạn đến với tài liệu **Mastering Excel for Data Analysis**!
-
 Bộ tài liệu này được thiết kế nhằm giúp bạn nắm vững các kiến thức cơ bản về phân tích dữ liệu, sử dụng công cụ quen thuộc **Microsoft Excel**, đồng thời kết hợp với **GenAI** để nâng cao hiệu quả học tập và ứng dụng thực tế.
 
 ## Nội dung tài liệu
